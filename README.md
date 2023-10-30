@@ -1,5 +1,5 @@
-### Projeto - Plataforma de Investimentos
-### InvestCentral
+## Projeto - Plataforma de Investimentos
+# InvestCentral
 
 <div align="center">
   <img src="Imagens/logo.jpg" alt="Logo">
@@ -67,3 +67,22 @@ Lista de ações que estão no negativo, mostrando a quantidade e o valor da per
 ### Tela de Percentual de Ganhos:
 Gráfico ou indicador mostrando a porcentagem de ganho em relação ao valor total investido.
 Lista detalhada de cada ação e seu respectivo percentual de ganho ou perda.
+
+### Publico Alvo:
+"InvestCentral" é voltado para:
+### Novatos: 
+Pessoas que estão começando a investir.
+### Investidores habituais:
+Quem já investe e quer otimizar a gestão.
+### Especialistas em finanças: 
+Profissionais que buscam análise aprofundada.
+### Estudantes: 
+Aprendizes buscando prática no mercado.
+### Pequenas empresas: 
+Negócios iniciando no mundo das ações.
+
+A plataforma busca ser versátil, atendendo desde o iniciante até o especialista.
+
+### Tecnologias, bibliotecas e frameworks:
+
+ Neste projeto iremos usar React com Vite.js.
