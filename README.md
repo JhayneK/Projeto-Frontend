@@ -2,7 +2,7 @@
 ### InvestCentral
 
 <div align="center">
-  <img src="imagens/logo.jpg" alt="Logo">
+  <img src="Imagens/logo.jpg" alt="Logo">
 </div>
 
 ### Grupo G
