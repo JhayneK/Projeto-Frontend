@@ -1,12 +1,20 @@
-Titulo do projeto:InvestCentral
+### Projeto - Plataforma de Investimentos
+### InvestCentral
 
-Lista de Integrantes:
-Jhayne Ketleen Henemam Martins
-João Victor Miotelli Vitali
-Renato Ribas Campos
-Laura Silveira
+<div align="center">
+  <img src="imagens/logo.jpg" alt="Logo">
+</div>
 
-Descrição do Projeto:
+### Grupo A
+
+### Integrantes:
+* [Jhayne Ketleen Henemam Martins](https://github.com/JhayneK)
+* [João Victor Miotelli Vitali](https://github.com/JoaoMiotelli)
+* [Renato Ribas Campos](https://github.com/RenatoRibas)
+* [Laura Silveira](https://github.com/laurassilveirag)
+
+
+### Descrição do Projeto:
 
 InvestCentral é a plataforma digital definitiva para investidores, oferecendo um espaço centralizado para registrar e gerenciar ações, organizar carteiras de investimento, monitorar em tempo real as alterações de valores, visualizar demonstrativos detalhados por período, e acompanhar o desempenho de seus investimentos, incluindo lucros, perdas e ganhos percentuais, tudo isso com segurança e eficiência, proporcionando insights valiosos e uma experiência de investimento transparente e recompensadora.
 
