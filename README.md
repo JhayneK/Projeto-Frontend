@@ -32,20 +32,13 @@ Botão "Entrar".
 Link "Esqueceu sua senha?".
 Link "Ainda não possui uma conta? Cadastre-se!".
 
-### Tela de Cadastro de Usuário:
-Campos para nome, e-mail, senha e confirmação de senha.
-Botão "Cadastrar".
-Link "Já possui uma conta? Faça login!".
-
-### Tela de Cadastro de Ações:
+### Carteira:
 Formulário para inserção de novas ações: código da ação, quantidade, valor pago, data da compra.
 Lista das ações já cadastradas com opções para editar ou excluir.
 
-### Tela de Cadastro de Carteira:
+### Portfólio:
 Formulário para nomear e criar novas carteiras.
 Lista de carteiras já criadas com resumo de valor e opção para adicionar ações a elas.
-
-### Tela de Modificações de Valores das Ações:
 Lista das ações com campo para atualização do valor atual.
 Opção para registrar a data e hora da atualização.
 
@@ -53,20 +46,20 @@ Opção para registrar a data e hora da atualização.
 Seleção de período para visualização (ex: diário, semanal, mensal).
 Gráficos e tabelas exibindo desempenho das ações e carteira no período escolhido.
 
-### Tela de Visualização do Total Investido:
-Valor numérico total investido.
-Lista detalhada de cada ação e seu respectivo valor de compra.
-
-### Tela de Visualização do Total Lucrado:
-Valor numérico total do lucro.
-Lista detalhada de cada ação, seu valor atual e o lucro ou perda em relação ao valor de compra.
-
-### Tela de Perdas:
-Lista de ações que estão no negativo, mostrando a quantidade e o valor da perda.
-
-### Tela de Percentual de Ganhos:
-Gráfico ou indicador mostrando a porcentagem de ganho em relação ao valor total investido.
-Lista detalhada de cada ação e seu respectivo percentual de ganho ou perda.
+    Tela de Visualização do Total Investido:
+    Valor numérico total investido.
+    Lista detalhada de cada ação e seu respectivo valor de compra.
+  
+    Tela de Visualização do Total Lucrado:
+    Valor numérico total do lucro.
+    Lista detalhada de cada ação, seu valor atual e o lucro ou perda em relação ao valor de compra.
+    
+    Tela de Perdas:
+    Lista de ações que estão no negativo, mostrando a quantidade e o valor da perda.
+    
+    Tela de Percentual de Ganhos:
+    Gráfico ou indicador mostrando a porcentagem de ganho em relação ao valor total investido.
+    Lista detalhada de cada ação e seu respectivo percentual de ganho ou perda.
 
 ### Publico Alvo:
 "InvestCentral" é voltado para:
