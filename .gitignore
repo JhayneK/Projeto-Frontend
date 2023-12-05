@@ -1,35 +1,27 @@
-# Commonly ignored Node.js files
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
 node_modules
-npm-debug.log
-.npm
+dist
+dist-ssr
+*.local
 
-# Next.js Build Output
-.next
-build
-
-# Jest
-coverage
-.swc
-junit.xml
-
-# Storybook
-storybook-static
-build-storybook.log
-.nyc_output
-
-# Vercel Files
-.vercel
-.turbo
-cache
-
-# Cache Files
-.eslintjscache
-.eslintmdcache
-.stylelintcache
-.prettiercache
-
-# TypeScript
-tsconfig.tsbuildinfo
-
-# Sentry Config File
-.sentryclirc
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+.eslintrc.cjs
+.env
+yarn.lock
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
