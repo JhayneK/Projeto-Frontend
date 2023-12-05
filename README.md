@@ -29,8 +29,6 @@ O objetivo principal do "InvestCentral" é abordar a complexidade e o desafio en
 Campo para inserção de usuário ou e-mail.
 Campo para senha.
 Botão "Entrar".
-Link "Esqueceu sua senha?".
-Link "Ainda não possui uma conta? Cadastre-se!".
 
 ### Carteira:
 Formulário para inserção de novas ações: código da ação, quantidade, valor pago, data da compra.
@@ -46,33 +44,33 @@ Opção para registrar a data e hora da atualização.
 Seleção de período para visualização (ex: diário, semanal, mensal).
 Gráficos e tabelas exibindo desempenho das ações e carteira no período escolhido.
 
-    Tela de Visualização do Total Investido:
-    Valor numérico total investido.
-    Lista detalhada de cada ação e seu respectivo valor de compra.
+  * Tela de Visualização do Total Investido:
+    * Valor numérico total investido.
+    * Lista detalhada de cada ação e seu respectivo valor de compra.
   
-    Tela de Visualização do Total Lucrado:
-    Valor numérico total do lucro.
-    Lista detalhada de cada ação, seu valor atual e o lucro ou perda em relação ao valor de compra.
+  * Tela de Visualização do Total Lucrado:
+    * Valor numérico total do lucro.
+    * Lista detalhada de cada ação, seu valor atual e o lucro ou perda em relação ao valor de compra.
     
-    Tela de Perdas:
-    Lista de ações que estão no negativo, mostrando a quantidade e o valor da perda.
+  * Tela de Perdas:
+    * Lista de ações que estão no negativo, mostrando a quantidade e o valor da perda.
     
-    Tela de Percentual de Ganhos:
-    Gráfico ou indicador mostrando a porcentagem de ganho em relação ao valor total investido.
-    Lista detalhada de cada ação e seu respectivo percentual de ganho ou perda.
+  * Tela de Percentual de Ganhos:
+    * Gráfico ou indicador mostrando a porcentagem de ganho em relação ao valor total investido.
+    * Lista detalhada de cada ação e seu respectivo percentual de ganho ou perda.
 
 ### Publico Alvo:
 "InvestCentral" é voltado para:
-### Novatos: 
-Pessoas que estão começando a investir.
-### Investidores habituais:
-Quem já investe e quer otimizar a gestão.
-### Especialistas em finanças: 
-Profissionais que buscam análise aprofundada.
-### Estudantes: 
-Aprendizes buscando prática no mercado.
-### Pequenas empresas: 
-Negócios iniciando no mundo das ações.
+* ### Novatos: 
+  * Pessoas que estão começando a investir.
+* ### Investidores habituais:
+  * Quem já investe e quer otimizar a gestão.
+* ### Especialistas em finanças: 
+  * Profissionais que buscam análise aprofundada.
+* ### Estudantes: 
+  * Aprendizes buscando prática no mercado.
+* ### Pequenas empresas: 
+  * Negócios iniciando no mundo das ações.
 
 A plataforma busca ser versátil, atendendo desde o iniciante até o especialista.
 
